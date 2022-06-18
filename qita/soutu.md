@@ -93,7 +93,7 @@ https://google.com/search?\&tbm=isch\&q= <mark style="color:blue;">**关键词**
 {% hint style="success" %}
 来源网站地址示例：
 
-huaban.com，bilibili.com，weibo.com，taobao.com，twitter.com
+huaban.com，bilibili.com，weibo.com，taobao.com，twitter.com，amazon.co.jp
 
 youtube.com，pinterest.com，deviantart.com，ameblo.jp，fandom.co 等......
 {% endhint %}
