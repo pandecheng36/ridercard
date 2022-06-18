@@ -39,6 +39,8 @@
   * [FINAL ATTACKRIDE](kpsm/page-1/kamenride-1.md)
   * [FORMRIDE](kpsm/page-1/formride.md)
 * [124全音效测试卡](kpsm/dx124.md)
+* [卡片条码音效联动说明](https://docs.qq.com/sheet/DUnNmYnFKTVJHWXdm)
+* [条码生成器](https://pandecheng36.github.io/ridercard/code.html)
 
 ## 常见问题解答 <a href="#3jieda" id="3jieda"></a>
 
@@ -64,7 +66,6 @@
 * [找图片素材的方法](qita/soutu.md)
 * [找图片素材的方法（百度篇）](qita/bdsoutu.md)
 * [假面骑士01密钥音效](qita/01keys.md)
-* [卡片条码音效联动说明](https://docs.qq.com/sheet/DUnNmYnFKTVJHWXdm)
 * [假面骑士相关图书](qita/tushu.md)
 
 ***
