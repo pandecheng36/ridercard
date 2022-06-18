@@ -1,0 +1,104 @@
+<html lang="zh">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>骑士卡片条码生成</title>
+    <script>
+      const _unitHeight = 47;
+      const _unitWidth = 24;
+      const _unitMismatch = _unitWidth / 2;
+
+      function convertNumberToBinaryString(number, length) {
+        return number.toString(2).padStart(length, "0");
+      }
+
+      function createDecadeCodeCanvas(opts) {
+        const fst = opts.fst;
+        const snd = opts.snd;
+        const canvas = document.createElement("canvas");
+        const ctx = canvas.getContext("2d");
+        const width = (canvas.width = _unitWidth * 12);
+        const height = (canvas.height = _unitHeight * 2);
+        const fstBinary = convertNumberToBinaryString(fst, 11);
+        const sndBinary = convertNumberToBinaryString(snd, 12);
+        const fstBinaryArray = fstBinary.split("");
+        const sndBinaryArray = sndBinary.split("");
+        ctx.fillStyle = "#fff";
+        ctx.fillRect(0, 0, 300, 300);
+        // draw fst
+        for (let i = 0; i < 11; i++) {
+          const startX = i * _unitWidth + _unitMismatch;
+          const startY = 0;
+          const endX = startX + _unitWidth;
+          const endY = _unitHeight;
+          const fstBit = fstBinaryArray[i];
+          ctx.fillStyle = fstBit === "1" ? "#000" : "#fff";
+          ctx.fillRect(startX, startY, endX, endY);
+        }
+        ctx.fillStyle = "#fff";
+        ctx.fillRect(
+          _unitWidth * 11 + _unitMismatch,
+          0,
+          _unitWidth * 12,
+          _unitHeight
+        );
+        // draw snd
+        for (let i = 0; i < 12; i++) {
+          const startX = i * _unitWidth;
+          const startY = _unitHeight;
+          const endX = startX + _unitWidth;
+          const endY = _unitHeight * 2;
+          const sndBit = sndBinaryArray[i];
+          ctx.fillStyle = sndBit === "1" ? "#000" : "#fff";
+          ctx.fillRect(startX, startY, endX, endY);
+        }
+
+        return canvas;
+      }
+
+      async function createDecadeCodeAndExportAsBlobURL(opts) {
+        const canvas = createDecadeCodeCanvas(opts);
+        const blob = await new Promise((resolve, reject) => {
+          canvas.toBlob(resolve, "image/jpg");
+        });
+        return URL.createObjectURL(blob);
+      }
+
+      async function createAndRenderDecadeCode(opts) {
+        const imageEl = document.querySelector(opts.imgSelector || "img");
+        const blobUrl = await createDecadeCodeAndExportAsBlobURL(opts);
+        imageEl.src = blobUrl;
+      }
+    </script>
+  </head>
+  <body>
+    <div style="width: 320px; height: 100px; margin: 12px">
+      <img id="RiderCardCode" alt="code" />
+    </div>
+    <input placeholder="请输入4位十进制数字" type="number" id="num-input" />
+    <button id="btn-dl">保存</button>
+
+    <script>
+      const input = document.querySelector("#num-input");
+      const btnDL = document.querySelector("#btn-dl");
+      let fixedNum = 1365;
+      let num = 0;
+      input.addEventListener("input", function (e) {
+        num = parseInt(e.target.value);
+        createAndRenderDecadeCode({
+          fst: fixedNum,
+          snd: num,
+          imgSelector: "#RiderCardCode",
+        });
+      });
+      btnDL.addEventListener("click", function (e) {
+        e.preventDefault();
+        const a = document.createElement("a");
+        a.href = document.querySelector("#RiderCardCode").src;
+        a.download = "RiderCardCode_" + num.toString() + ".jpg";
+        a.click();
+      });
+    </script>
+  </body>
+</html>
