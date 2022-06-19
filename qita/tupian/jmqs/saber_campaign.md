@@ -1,6 +1,6 @@
 # Saber Campaign壁纸
 
-![](https://www.kamen-rider-official.com/saber/special\_campaign/images/ogimage.jpg)
+![](https://www.kamen-rider-official.com/saber/special\_campaign/images/material/hero/hero-pc.jpg)
 
 ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/Kc5rmxXF1-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/P6jem2BY2-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/Q8dUpWX24-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/P6jNiRzZ3-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/Vz6ZLsch5-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/wE8Xefji7-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/w2ZVy6NF6-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/Wi4gZQVd9-pc.png) ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/comingsoon/Z5PeyZQc10-pc.png)
 
