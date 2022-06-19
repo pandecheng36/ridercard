@@ -118,6 +118,6 @@ description: 本网页用于记录科普和说明一些关于假面骑士Decade�
 
 ![](https://qrcode.jp/qr?q=https://pandecheng.gitbook.io/ridercard\&s=6)
 
-|                                                                                                                                                                                                                                                                |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://www.kamen-rider-official.com/common/images/crest-revice.svg" alt="" data-size="line"> Copyright © 2022 pandecheng. All rights reserved. <img src="https://www.kamen-rider-official.com/common/images/icon-50th.svg" alt="" data-size="line"> |
+|                                                                                                          推荐使用 Chrome、Firefox、Safari、Microsoft Edge浏览器 访问本站                                                                                                          |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://www.kamen-rider-official.com/common/images/crest-revice.svg" alt="" data-size="line"> Copyright © 2020-2022 pandecheng. All rights reserved. <img src="https://www.kamen-rider-official.com/common/images/icon-50th.svg" alt="" data-size="line"> |
