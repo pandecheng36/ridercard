@@ -23,3 +23,11 @@ Sam的bilibili主页：[https://space.bilibili.com/141613853](https://space.bili
 {% embed url="https://www.bilibili.com/read/mobile/6136033" %}
 [https://www.bilibili.com/read/mobile/6136033](https://www.bilibili.com/read/mobile/6136033)
 {% endembed %}
+
+{% embed url="https://codepen.io/cmegown/pen/VaMzQq" %}
+
+{% embed url="https://codepen.io/phantom4/pen/wrQYXX" %}
+
+{% embed url="https://codepen.io/MillerTime/pen/XgpNwb" %}
+
+{% embed url="https://codepen.io/MillerTime/full/YEgggB" %}
