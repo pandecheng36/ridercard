@@ -62,7 +62,7 @@
       * [假面骑士GHOST系列](qita/tupian/jmqs/kemco/ghost.md)
       * [假面骑士DRIVE系列](qita/tupian/jmqs/kemco/drive.md)
     * [假面骑士LOGO](qita/tupian/jmqs/logo.md)
-    * [Saber Campaign活动壁纸](qita/tupian/jmqs/saber\_campaign.md)
+    * [Saber Campaign壁纸](qita/tupian/jmqs/saber\_campaign.md)
   * [超级战队系列](qita/tupian/cjzd.md)
 * [找图片素材的方法](qita/soutu.md)
 * [找图片素材的方法（百度篇）](qita/bdsoutu.md)
