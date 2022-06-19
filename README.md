@@ -35,6 +35,10 @@ description: 本网页用于记录科普和说明一些关于假面骑士Decade�
 {% endhint %}
 
 {% hint style="info" %}
+**找Sam交流：**[**https://res.abeim.cn/api-qq.chat?qq=283532927**](https://res.abeim.cn/api-qq.chat?qq=283532927)****
+
+**SamQQ主页：**[**https://res.abeim.cn/api-qq?qq=283532927**](https://res.abeim.cn/api-qq?qq=283532927)****
+
 **Sam万能套件交流 1 群：**[**564556509**](https://jq.qq.com/?\_wv=1027\&k=56DSN70)****
 
 **Sam万能套件交流 2 群：**[**723954279**](https://jq.qq.com/?\_wv=1027\&k=5Fd2khf)****
