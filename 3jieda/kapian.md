@@ -16,7 +16,7 @@
 
 尺寸：59×86mm，像素：697×1016，分辨率：300
 
-## 常说的胶卡是指什么？
+常说的胶卡是指什么？
 
 胶卡是官方原装卡的材质的一种俗称，也叫做塑料卡、塑胶卡
 
@@ -117,5 +117,49 @@ PET材料（Polyethylene terephthalate）
 <summary><strong>自制卡是什么？</strong></summary>
 
 
+
+</details>
+
+<details>
+
+<summary>1.0的CSM卡和NEO道具卡背面右下角出现的以下英文字母分别都是什么意思？</summary>
+
+## 版权水印标识：
+
+B.JAPAN ©I·T
+
+B.JAPAN ©T·T·I
+
+B.JAPAN ©I·T©T
+
+B.JAPAN ©I·T·A·T
+
+B.JAPAN ©I·T © T·T·I
+
+NOT FOR SALE
+
+## 说明：
+
+B是BANDAI（万代）
+
+JAPAN是日本
+
+©是版权符号
+
+后面的就是版权方了
+
+T是TOEI（东映）
+
+NOT FOR SALE是非卖品（特典卡上面才有）
+
+## 版权方：
+
+Ishimori Shōtarō / 石森プロ / 石森章太郎
+
+テレビ朝日 / tv asahi / 朝日电视台
+
+ADK EM
+
+Toei Tokyo / 東映 / 东映株式会社
 
 </details>
