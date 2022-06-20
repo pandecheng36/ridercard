@@ -16,11 +16,11 @@
 {% endtab %}
 
 {% tab title="技能卡" %}
-![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_063.png)
+![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_063.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_064.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_065.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_066.png)
 {% endtab %}
 
 {% tab title="形态卡" %}
-![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_050.png)
+![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_050.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_051.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_052.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_053.png)
 {% endtab %}
 {% endtabs %}
 
@@ -34,11 +34,11 @@
 {% endtab %}
 
 {% tab title="变形卡" %}
-![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_089.png)
+![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_089.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_090.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_091.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_092.png)
 {% endtab %}
 
 {% tab title="空白变形卡" %}
-![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_101.png)
+![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_101.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_102.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_103.png) ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20211109\_decadriver\_5gwsxp6f\_0js7xa\_cardlist\_card\_104.png)
 {% endtab %}
 
 {% tab title="空白变身卡" %}
