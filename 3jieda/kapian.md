@@ -140,15 +140,7 @@ NOT FOR SALE
 
 ## 说明：
 
-B是BANDAI（万代）
-
-JAPAN是日本
-
-©是版权符号
-
-后面的就是版权方了
-
-T是TOEI（东映）
+B是BANDAI（万代），JAPAN是日本，©是版权符号，后面的就是版权方了，T是TOEI（东映）
 
 NOT FOR SALE是非卖品（特典卡上面才有）
 
@@ -161,5 +153,7 @@ Ishimori Shōtarō / 石森プロ / 石森章太郎
 ADK EM
 
 Toei Tokyo / 東映 / 东映株式会社
+
+#### <mark style="color:red;">注：DX / NEO / CSM2.0 的卡背面无版权水印标识</mark>
 
 </details>
