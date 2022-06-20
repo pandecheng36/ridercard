@@ -94,14 +94,6 @@ PET材料（Polyethylene terephthalate）
 
 <details>
 
-<summary><strong>卡片的厚度是多少？</strong></summary>
-
-标准厚度是0.35\~0.38mm（毫米）
-
-</details>
-
-<details>
-
 <summary><strong>自制卡是什么？</strong></summary>
 
 玩家自制的卡片（说不好听的就叫盗版卡）
