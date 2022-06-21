@@ -2,6 +2,18 @@
 
 {% embed url="https://pandecheng.gitbook.io/ridercard" %}
 
+{% embed url="https://space.bilibili.com/141613853" %}
+Sam的bilibili主页：[https://space.bilibili.com/141613853](https://space.bilibili.com/141613853)
+{% endembed %}
+
+Sam Make：[https://shop262988582.taobao.com](https://shop262988582.taobao.com)
+
+Cicadas空蝉社：[https://shop416525752.taobao.com](https://shop416525752.taobao.com)
+
+时定3D打印创意工坊：[https://shop192528990.taobao.com](https://shop192528990.taobao.com)
+
+小夜桌游卡牌diy：[https://shop61522310.taobao.com](https://shop61522310.taobao.com)
+
 {% embed url="https://www.woobx.cn" %}
 [https://www.woobx.cn](https://www.woobx.cn)
 {% endembed %}
@@ -14,10 +26,6 @@
 
 {% embed url="https://web.woobx.cn" %}
 [https://web.woobx.cn](https://web.woobx.cn)
-{% endembed %}
-
-{% embed url="https://space.bilibili.com/141613853" %}
-Sam的bilibili主页：[https://space.bilibili.com/141613853](https://space.bilibili.com/141613853)
 {% endembed %}
 
 {% embed url="https://www.bilibili.com/read/mobile/6136033" %}
