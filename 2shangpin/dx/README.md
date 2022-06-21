@@ -1,5 +1,5 @@
 ---
-description: 全称：“DELUXE”
+description: 全称“DELUXE”
 ---
 
 # DX

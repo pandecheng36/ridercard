@@ -56,7 +56,7 @@
 
 {% tabs %}
 {% tab title="隔週刊 仮面ライダーDVDコレクション" %}
-![](https://deagostini.jp/image/KRD/issue\_1\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_2\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_3\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_4\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_5\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_6\_1.jpg)
+![](https://deagostini.jp/image/KRD/issue\_1\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_2\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_3\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_4\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_5\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_6\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_7\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_8\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_9\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_10\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_11\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_12\_1.jpg)
 
 {% embed url="https://deagostini.jp/krd/" %}
 [https://deagostini.jp/krd/](https://deagostini.jp/krd/)
