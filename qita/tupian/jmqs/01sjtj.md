@@ -1,4 +1,10 @@
-# 假面骑士01
+---
+cover: >-
+  https://www.kamen-rider-official.com/episode_guide_zeroone_item/images/bg_pc.jpg
+coverY: 0
+---
+
+# 假面骑士01设计图集
 
 {% embed url="https://www.kamen-rider-official.com/collections/21/3" %}
 [**https://www.kamen-rider-official.com/collections/21/3**](https://www.kamen-rider-official.com/collections/21/3)
