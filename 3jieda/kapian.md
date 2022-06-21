@@ -106,7 +106,7 @@ PET材料（Polyethylene terephthalate）
 
 这是一种卡片设计上常用的装饰性文字，仅用于装饰效果
 
-可参考龙骑的降临卡片（）和剑的觉醒卡RO）
+可参考龙骑的降临卡（）和剑SEROU）
 
 </details>
 
