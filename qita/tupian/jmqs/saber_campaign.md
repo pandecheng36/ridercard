@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# Saber Campaign壁纸
+# Saber官方活动壁纸
 
 ![](https://www.kamen-rider-official.com/saber/special\_campaign/images/material/hero/hero-pc.jpg)
 

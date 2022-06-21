@@ -52,20 +52,22 @@
 [https://www.shogakukan.co.jp/books/series/B10018](https://www.shogakukan.co.jp/books/series/B10018)
 {% endembed %}
 {% endtab %}
+{% endtabs %}
+
+{% tabs %}
+{% tab title="隔週刊 仮面ライダーDVDコレクション" %}
+![](https://deagostini.jp/image/KRD/issue\_1\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_2\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_3\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_4\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_5\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_6\_1.jpg)
+
+{% embed url="https://deagostini.jp/krd/" %}
+[https://deagostini.jp/krd/](https://deagostini.jp/krd/)
+{% endembed %}
+{% endtab %}
 
 {% tab title="隔週刊 仮面ライダーDVDコレクション 平成編" %}
 ![](https://deagostini.jp/image/KRH/issue\_1\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_2\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_3\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_4\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_5\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_6\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_7\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_8\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_9\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_10\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_11\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_12\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_13\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_14\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_15\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_16\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_17\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_18\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_19\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_20\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_21\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_22\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_23\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_24\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_25\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_26\_1.jpg) ![](https://deagostini.jp/image/KRH/issue\_27\_1.jpg)
 
 {% embed url="https://deagostini.jp/krh/" %}
 [https://deagostini.jp/krh/](https://deagostini.jp/krh/)
-{% endembed %}
-{% endtab %}
-
-{% tab title="Untitled" %}
-![](https://deagostini.jp/image/KRD/issue\_1\_1.jpg) ![](https://deagostini.jp/image/KRD/issue\_2\_1.jpg)
-
-{% embed url="https://deagostini.jp/krd/" %}
-[https://deagostini.jp/krd/](https://deagostini.jp/krd/)
 {% endembed %}
 {% endtab %}
 {% endtabs %}
