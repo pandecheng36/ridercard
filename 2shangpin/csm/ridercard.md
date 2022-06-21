@@ -1,5 +1,8 @@
 ---
 description: ライダーカード
+cover: >-
+  https://p-bandai.jp/bc/images/shop_top_boys-toy/20141009_cardlist_header_bg.jpg
+coverY: 0
 ---
 
 # RIDER CARD

@@ -20,6 +20,7 @@
   * [RIDER CARD BINDER -DIEND-](2shangpin/csm/ridercardbinderdiend.md)
   * [RIDERCARD OF DECADRIVER](2shangpin/csm/ridercardofdecadriver.md)
   * [RIDERCARD OF DIENDRIVER](2shangpin/csm/ridercardofdiendriver.md)
+  * [CSM2.0特辑](https://p-bandai.jp/b-toys-shop/csm-decade)
   * [DECADRIVER ver.2 ＆ K-TOUCH](2shangpin/csm/decadriverver2ktouch.md)
   * [RIDE BOOKER](2shangpin/csm/ridebooker.md)
   * [RIDER CARD SET EXTRA](2shangpin/csm/ridercardsetextra.md)
