@@ -47,15 +47,15 @@ Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62
 {% endhint %}
 
 {% hint style="danger" %}
-## 资料仅供参考
+### 资料仅供参考
 
 ### 交易过程请保证自身财产安全
 {% endhint %}
 
 {% hint style="info" %}
-空蝉自制卡：
+空蝉自制卡：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.com)
 
-皮卡丘自制卡：
+皮卡丘自制卡：[shop365231046.m.taobao.com](https://shop365231046.m.taobao.com)
 {% endhint %}
 
 ## 万能套件代工推荐
@@ -97,30 +97,6 @@ QQ交流群：[1070755780](https://jq.qq.com/?\_wv=1027\&k=6334snln)
 {% hint style="info" %}
 内容编辑中...
 {% endhint %}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
