@@ -46,10 +46,22 @@ Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62
 淘宝店铺：[shop262988582.taobao.com](https://shop262988582.taobao.com)
 {% endhint %}
 
+{% hint style="danger" %}
+## 资料仅供参考
+
+### 交易过程请保证自身财产安全
+{% endhint %}
+
+{% hint style="info" %}
+空蝉自制卡：
+
+皮卡丘自制卡：
+{% endhint %}
+
 ## 万能套件代工推荐
 
 {% hint style="info" %}
-## 园长代工
+## 园长代工（广西梧州）
 
 动物园的代工小屋：[599403281](https://jq.qq.com/?\_wv=1027\&k=hOZpjM6R)
 
@@ -67,7 +79,11 @@ QQ交流群：[1070755780](https://jq.qq.com/?\_wv=1027\&k=6334snln)
 {% endhint %}
 
 {% hint style="info" %}
-青柠代工：[419241917](https://res.abeim.cn/api-qq.chat?qq=419241917)
+三火代工：[1551265086](https://res.abeim.cn/api-qq.chat?qq=1551265086)（广东高州）
+{% endhint %}
+
+{% hint style="info" %}
+青柠代工：[419241917](https://res.abeim.cn/api-qq.chat?qq=419241917)（河南某地区）
 {% endhint %}
 
 {% hint style="info" %}
