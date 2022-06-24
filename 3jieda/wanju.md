@@ -20,7 +20,7 @@
 
 <details>
 
-<summary>为什么腰带无法读卡</summary>
+<summary>为什么腰带无法读卡？</summary>
 
 1. 看看是不是卡片插反了
 2. 可能是没电了，请尝试更换新的电池
