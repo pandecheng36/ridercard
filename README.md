@@ -69,21 +69,29 @@ Cicadas空蝉社：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.c
 {% endhint %}
 
 {% hint style="info" %}
-流铭代工：[3270726498](https://res.abeim.cn/api-qq.chat?qq=3270726498)（广东佛山）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=3270726498&#x26;s=40" alt="" data-size="line">
+### 流铭代工：
+
+[3270726498](https://res.abeim.cn/api-qq.chat?qq=3270726498)（广东佛山）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=3270726498&#x26;s=40" alt="" data-size="line">
 
 QQ交流群：[1070755780](https://jq.qq.com/?\_wv=1027\&k=6334snln) <img src="https://p.qlogo.cn/gh/1070755780/1070755780/40" alt="" data-size="line">
 {% endhint %}
 
 {% hint style="info" %}
-胖次代工：[1484490899](https://res.abeim.cn/api-qq.chat?qq=1484490899)（广东江门）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1484490899&#x26;s=40" alt="" data-size="line">
+### 胖次代工：
+
+[1484490899](https://res.abeim.cn/api-qq.chat?qq=1484490899)（广东江门）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1484490899&#x26;s=40" alt="" data-size="line">
 {% endhint %}
 
 {% hint style="info" %}
-三火代工：[1551265086](https://res.abeim.cn/api-qq.chat?qq=1551265086)（广东高州）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1551265086&#x26;s=40" alt="" data-size="line">
+### 三火代工：
+
+[1551265086](https://res.abeim.cn/api-qq.chat?qq=1551265086)（广东高州）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1551265086&#x26;s=40" alt="" data-size="line">
 {% endhint %}
 
 {% hint style="info" %}
-青柠代工：[419241917](https://res.abeim.cn/api-qq.chat?qq=419241917)（河南某地区）
+青柠代工：
+
+[419241917](https://res.abeim.cn/api-qq.chat?qq=419241917)（河南某地区）
 {% endhint %}
 
 {% hint style="info" %}
