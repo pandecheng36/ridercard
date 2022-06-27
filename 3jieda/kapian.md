@@ -28,6 +28,8 @@
 
 适用尺寸有60×87mm、61×88mm、<mark style="color:red;">62×89mm</mark>（推荐）
 
+厚度建议选择20丝（加厚）
+
 ## 卡片的厚度是多少？
 
 标准厚度：约0.35mm（毫米），会员卡厚度：约0.76mm
@@ -62,6 +64,10 @@ PET材料（Polyethylene terephthalate）
 
 俗称涤纶树脂，是制卡材料当中最好的材料，其特点是耐高温可降解环保，无毒、无味，卫生安全性好，也可直接用于食品包装，同时在上色印刷特殊工艺方面是最优秀的，制作成的卡片精致美观。这种材料相对来说用的会比较少，缺点是价格相比于PVC材料会高不少，在制作工艺流程中也会产生一些费用。
 
+## 为什么旧十年骑士的卡叫MASKED RIDER，新十年的叫KAMEN RIDER？
+
+MASKED是英文，KAMEN是日文罗马音，意思相同，都是假面骑士
+
 <details>
 
 <summary>自制卡是什么材质的（制作材料）？</summary>
@@ -88,6 +94,8 @@ PET材料（Polyethylene terephthalate）
 
 </details>
 
+## 其他
+
 <details>
 
 <summary>卡片种类有那些？</summary>
@@ -109,14 +117,6 @@ PET材料（Polyethylene terephthalate）
 <mark style="color:red;">**F**</mark>INAL <mark style="color:red;">**K**</mark>AMEN <mark style="color:red;">**A**</mark>TTACK <mark style="color:red;">**F**</mark>**ORMRIDE**：最终假面攻击形态驾驭
 
 **FINAL RIDE**：最终驾驭，只有在街机游戏卡片中出现过
-
-</details>
-
-<details>
-
-<summary>为什么旧十年骑士的卡叫MASKED，新十年叫KAMEN</summary>
-
-MASKED是英文，KAMEN是日文罗马音，意思相同，都是假面骑士
 
 </details>
 
