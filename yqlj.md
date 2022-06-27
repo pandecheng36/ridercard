@@ -8,7 +8,7 @@ Sam的bilibili主页：[https://space.bilibili.com/141613853](https://space.bili
 
 Sam Make：[shop262988582.m.taobao.com](https://shop262988582.m.taobao.com)
 
-Cicadas空蝉社：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.com)
+
 
 时定3D打印创意工坊：[shop192528990.m.taobao.com](https://shop192528990.m.taobao.com)
 

@@ -35,13 +35,13 @@ b站主页：[space.bilibili.com/39762870](https://space.bilibili.com/39762870)
 
 SamQQ主页：[283532927](https://res.abeim.cn/api-qq?qq=283532927) <img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=283532927&#x26;s=40" alt="" data-size="line">
 
-Sam万能套件交流 1 群：[564556509](https://qm.qq.com/cgi-bin/qm/qr?k=3W-q8-5nmVbT8mIJlfMnxBMihrOej0yG\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/564556509/564556509/40" alt="" data-size="line">
+万能套件交流 1 群：[564556509](https://qm.qq.com/cgi-bin/qm/qr?k=3W-q8-5nmVbT8mIJlfMnxBMihrOej0yG\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/564556509/564556509/40" alt="" data-size="line">
 
-Sam万能套件交流 2 群：[723954279](https://qm.qq.com/cgi-bin/qm/qr?k=9gm5Sl\_uK9oMio\_3OIqI8-rhJSTs3Zcl\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/723954279/723954279/40" alt="" data-size="line">
+万能套件交流 2 群：[723954279](https://qm.qq.com/cgi-bin/qm/qr?k=9gm5Sl\_uK9oMio\_3OIqI8-rhJSTs3Zcl\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/723954279/723954279/40" alt="" data-size="line">
 
-Sam万能套件交流 3 群：[290138396](https://qm.qq.com/cgi-bin/qm/qr?k=rw1yiukvxIlQgGv9Go3FVu1JI8kiQUwO\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/290138396/290138396/40" alt="" data-size="line">
+万能套件交流 3 群：[290138396](https://qm.qq.com/cgi-bin/qm/qr?k=rw1yiukvxIlQgGv9Go3FVu1JI8kiQUwO\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/290138396/290138396/40" alt="" data-size="line">
 
-Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62yF) <img src="https://p.qlogo.cn/gh/290984284/290984284/40" alt="" data-size="line">
+万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62yF) <img src="https://p.qlogo.cn/gh/290984284/290984284/40" alt="" data-size="line">
 
 淘宝店铺：[shop262988582.taobao.com](https://shop262988582.taobao.com)
 {% endhint %}
@@ -53,7 +53,7 @@ Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62
 {% endhint %}
 
 {% hint style="info" %}
-空蝉自制卡：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.com)
+Cicadas空蝉社：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.com)
 
 皮卡丘自制卡：[shop365231046.m.taobao.com](https://shop365231046.m.taobao.com)
 {% endhint %}
@@ -63,23 +63,23 @@ Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62
 {% hint style="info" %}
 ## 园长代工（广西梧州）
 
-动物园的代工小屋：[599403281](https://jq.qq.com/?\_wv=1027\&k=hOZpjM6R)
+动物园的代工小屋：[599403281](https://jq.qq.com/?\_wv=1027\&k=hOZpjM6R) <img src="https://p.qlogo.cn/gh/599403281/599403281/40" alt="" data-size="line">
 
-找园长交流：[2506728773](https://res.abeim.cn/api-qq.chat?qq=2506728773)
+找园长交流：[2506728773](https://res.abeim.cn/api-qq.chat?qq=2506728773) <img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=2506728773&#x26;s=40" alt="" data-size="line">
 {% endhint %}
 
 {% hint style="info" %}
-流铭代工：[3270726498](https://res.abeim.cn/api-qq.chat?qq=3270726498)（广东佛山）
+流铭代工：[3270726498](https://res.abeim.cn/api-qq.chat?qq=3270726498)（广东佛山）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=3270726498&#x26;s=40" alt="" data-size="line">
 
-QQ交流群：[1070755780](https://jq.qq.com/?\_wv=1027\&k=6334snln)
+QQ交流群：[1070755780](https://jq.qq.com/?\_wv=1027\&k=6334snln) <img src="https://p.qlogo.cn/gh/1070755780/1070755780/40" alt="" data-size="line">
 {% endhint %}
 
 {% hint style="info" %}
-胖次代工：[1484490899](https://res.abeim.cn/api-qq.chat?qq=1484490899)（广东江门）
+胖次代工：[1484490899](https://res.abeim.cn/api-qq.chat?qq=1484490899)（广东江门）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1484490899&#x26;s=40" alt="" data-size="line">
 {% endhint %}
 
 {% hint style="info" %}
-三火代工：[1551265086](https://res.abeim.cn/api-qq.chat?qq=1551265086)（广东高州）
+三火代工：[1551265086](https://res.abeim.cn/api-qq.chat?qq=1551265086)（广东高州）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1551265086&#x26;s=40" alt="" data-size="line">
 {% endhint %}
 
 {% hint style="info" %}
