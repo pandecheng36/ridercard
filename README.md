@@ -19,7 +19,7 @@ description: 本网页主要用于记录说明一些关于假面骑士Decade帝�
 {% hint style="info" %}
 ## PDCard
 
-PDC自制卡交流群：[859891074](https://qm.qq.com/cgi-bin/qm/qr?k=V2yo3qNbAikjHNtZ31G-O9FEIydPmQ3g\&jump\_from=webapi)
+PDC自制卡交流群：[859891074](https://qm.qq.com/cgi-bin/qm/qr?k=V2yo3qNbAikjHNtZ31G-O9FEIydPmQ3g\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/859891074/859891074/40" alt="" data-size="line">
 
 <mark style="color:red;">音效、卡片模板素材等文件请自行到群文件下载</mark>
 
@@ -31,17 +31,17 @@ b站主页：[space.bilibili.com/39762870](https://space.bilibili.com/39762870)
 {% hint style="info" %}
 ## Sam Make
 
-找Sam交流：[283532927](https://res.abeim.cn/api-qq.chat?qq=283532927)
+找Sam交流：[283532927](https://res.abeim.cn/api-qq.chat?qq=283532927) <img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=283532927&#x26;s=40" alt="" data-size="line">
 
-SamQQ主页：[283532927](https://res.abeim.cn/api-qq?qq=283532927)
+SamQQ主页：[283532927](https://res.abeim.cn/api-qq?qq=283532927) <img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=283532927&#x26;s=40" alt="" data-size="line">
 
-Sam万能套件交流 1 群：[564556509](https://qm.qq.com/cgi-bin/qm/qr?k=3W-q8-5nmVbT8mIJlfMnxBMihrOej0yG\&jump\_from=webapi)
+Sam万能套件交流 1 群：[564556509](https://qm.qq.com/cgi-bin/qm/qr?k=3W-q8-5nmVbT8mIJlfMnxBMihrOej0yG\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/564556509/564556509/40" alt="" data-size="line">
 
-Sam万能套件交流 2 群：[723954279](https://qm.qq.com/cgi-bin/qm/qr?k=9gm5Sl\_uK9oMio\_3OIqI8-rhJSTs3Zcl\&jump\_from=webapi)
+Sam万能套件交流 2 群：[723954279](https://qm.qq.com/cgi-bin/qm/qr?k=9gm5Sl\_uK9oMio\_3OIqI8-rhJSTs3Zcl\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/723954279/723954279/40" alt="" data-size="line">
 
-Sam万能套件交流 3 群：[290138396](https://qm.qq.com/cgi-bin/qm/qr?k=rw1yiukvxIlQgGv9Go3FVu1JI8kiQUwO\&jump\_from=webapi)
+Sam万能套件交流 3 群：[290138396](https://qm.qq.com/cgi-bin/qm/qr?k=rw1yiukvxIlQgGv9Go3FVu1JI8kiQUwO\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/290138396/290138396/40" alt="" data-size="line">
 
-Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62yF)
+Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62yF) <img src="https://p.qlogo.cn/gh/290984284/290984284/40" alt="" data-size="line">
 
 淘宝店铺：[shop262988582.taobao.com](https://shop262988582.taobao.com)
 {% endhint %}
