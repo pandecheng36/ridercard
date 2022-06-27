@@ -3,6 +3,11 @@
 * [👏 欢迎访问本网页！](README.md)
 * [假面骑士网站导航](wzdh.md)
 
+## 常见问题解答 <a href="#3jieda" id="3jieda"></a>
+
+* [卡片相关](3jieda/kapian.md)
+* [玩具相关](3jieda/wanju.md)
+
 ## 官方商品相关链接 <a href="#2shangpin" id="2shangpin"></a>
 
 * [DX](2shangpin/dx/README.md)
@@ -42,11 +47,6 @@
 * [124全音效测试卡](kpsm/dx124.md)
 * [卡片条码音效联动说明](https://docs.qq.com/sheet/DUnNmYnFKTVJHWXdm)
 * [条码生成器](https://pandecheng36.github.io/ridercard/code.html)
-
-## 常见问题解答 <a href="#3jieda" id="3jieda"></a>
-
-* [卡片相关](3jieda/kapian.md)
-* [玩具相关](3jieda/wanju.md)
 
 ## 其他 <a href="#qita" id="qita"></a>
 

@@ -19,7 +19,7 @@ description: 本网页主要用于记录说明一些关于假面骑士Decade帝�
 {% hint style="info" %}
 ## PDCard
 
-PDC自制卡交流群：[859891074](https://qm.qq.com/cgi-bin/qm/qr?k=V2yo3qNbAikjHNtZ31G-O9FEIydPmQ3g\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/859891074/859891074/40" alt="" data-size="line">
+PDC自制卡交流群：[859891074](https://qm.qq.com/cgi-bin/qm/qr?k=V2yo3qNbAikjHNtZ31G-O9FEIydPmQ3g\&jump\_from=webapi)
 
 <mark style="color:red;">音效、卡片模板素材等文件请自行到群文件下载</mark>
 
@@ -31,17 +31,17 @@ b站主页：[space.bilibili.com/39762870](https://space.bilibili.com/39762870)
 {% hint style="info" %}
 ## Sam Make
 
-找Sam交流：[283532927](https://res.abeim.cn/api-qq.chat?qq=283532927) <img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=283532927&#x26;s=40" alt="" data-size="line">
+找Sam交流：[283532927](https://res.abeim.cn/api-qq.chat?qq=283532927)
 
-SamQQ主页：[283532927](https://res.abeim.cn/api-qq?qq=283532927) <img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=283532927&#x26;s=40" alt="" data-size="line">
+SamQQ主页：[283532927](https://res.abeim.cn/api-qq?qq=283532927)
 
-万能套件交流 1 群：[564556509](https://qm.qq.com/cgi-bin/qm/qr?k=3W-q8-5nmVbT8mIJlfMnxBMihrOej0yG\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/564556509/564556509/40" alt="" data-size="line">
+Sam万能套件交流 1 群：[564556509](https://qm.qq.com/cgi-bin/qm/qr?k=3W-q8-5nmVbT8mIJlfMnxBMihrOej0yG\&jump\_from=webapi)
 
-万能套件交流 2 群：[723954279](https://qm.qq.com/cgi-bin/qm/qr?k=9gm5Sl\_uK9oMio\_3OIqI8-rhJSTs3Zcl\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/723954279/723954279/40" alt="" data-size="line">
+Sam万能套件交流 2 群：[723954279](https://qm.qq.com/cgi-bin/qm/qr?k=9gm5Sl\_uK9oMio\_3OIqI8-rhJSTs3Zcl\&jump\_from=webapi)
 
-万能套件交流 3 群：[290138396](https://qm.qq.com/cgi-bin/qm/qr?k=rw1yiukvxIlQgGv9Go3FVu1JI8kiQUwO\&jump\_from=webapi) <img src="https://p.qlogo.cn/gh/290138396/290138396/40" alt="" data-size="line">
+Sam万能套件交流 3 群：[290138396](https://qm.qq.com/cgi-bin/qm/qr?k=rw1yiukvxIlQgGv9Go3FVu1JI8kiQUwO\&jump\_from=webapi)
 
-万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62yF) <img src="https://p.qlogo.cn/gh/290984284/290984284/40" alt="" data-size="line">
+Sam万能套件交流 4 群：[290984284](https://jq.qq.com/?\_wv=1027\&k=2heI62yF)
 
 淘宝店铺：[shop262988582.taobao.com](https://shop262988582.taobao.com)
 {% endhint %}
@@ -53,7 +53,7 @@ SamQQ主页：[283532927](https://res.abeim.cn/api-qq?qq=283532927) <img src="ht
 {% endhint %}
 
 {% hint style="info" %}
-Cicadas空蝉社：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.com)
+空蝉自制卡：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.com)
 
 皮卡丘自制卡：[shop365231046.m.taobao.com](https://shop365231046.m.taobao.com)
 {% endhint %}
@@ -63,35 +63,27 @@ Cicadas空蝉社：[shop416525752.m.taobao.com](https://shop416525752.m.taobao.c
 {% hint style="info" %}
 ## 园长代工（广西梧州）
 
-动物园的代工小屋：[599403281](https://jq.qq.com/?\_wv=1027\&k=hOZpjM6R) <img src="https://p.qlogo.cn/gh/599403281/599403281/40" alt="" data-size="line">
+动物园的代工小屋：[599403281](https://jq.qq.com/?\_wv=1027\&k=hOZpjM6R)
 
-找园长交流：[2506728773](https://res.abeim.cn/api-qq.chat?qq=2506728773) <img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=2506728773&#x26;s=40" alt="" data-size="line">
+找园长交流：[2506728773](https://res.abeim.cn/api-qq.chat?qq=2506728773)
 {% endhint %}
 
 {% hint style="info" %}
-### 流铭代工：
+流铭代工：[3270726498](https://res.abeim.cn/api-qq.chat?qq=3270726498)（广东佛山）
 
-[3270726498](https://res.abeim.cn/api-qq.chat?qq=3270726498)（广东佛山）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=3270726498&#x26;s=40" alt="" data-size="line">
-
-QQ交流群：[1070755780](https://jq.qq.com/?\_wv=1027\&k=6334snln) <img src="https://p.qlogo.cn/gh/1070755780/1070755780/40" alt="" data-size="line">
+QQ交流群：[1070755780](https://jq.qq.com/?\_wv=1027\&k=6334snln)
 {% endhint %}
 
 {% hint style="info" %}
-### 胖次代工：
-
-[1484490899](https://res.abeim.cn/api-qq.chat?qq=1484490899)（广东江门）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1484490899&#x26;s=40" alt="" data-size="line">
+胖次代工：[1484490899](https://res.abeim.cn/api-qq.chat?qq=1484490899)（广东江门）
 {% endhint %}
 
 {% hint style="info" %}
-### 三火代工：
-
-[1551265086](https://res.abeim.cn/api-qq.chat?qq=1551265086)（广东高州）<img src="https://q4.qlogo.cn/g?b=qq&#x26;nk=1551265086&#x26;s=40" alt="" data-size="line">
+三火代工：[1551265086](https://res.abeim.cn/api-qq.chat?qq=1551265086)（广东高州）
 {% endhint %}
 
 {% hint style="info" %}
-青柠代工：
-
-[419241917](https://res.abeim.cn/api-qq.chat?qq=419241917)（河南某地区）
+青柠代工：[419241917](https://res.abeim.cn/api-qq.chat?qq=419241917)（河南某地区）
 {% endhint %}
 
 {% hint style="info" %}
