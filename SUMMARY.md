@@ -23,6 +23,7 @@
   * [RIDER CARD](2shangpin/csm/ridercard.md)
   * [DIENDRIVER & DIEND BELT](2shangpin/csm/diendriverdiendbelt.md)
   * [RIDER CARD BINDER -DIEND-](2shangpin/csm/ridercardbinderdiend.md)
+  * [RIDER CARD -KAMENRIDE DIEND\&KAIJINRIDE-](2shangpin/csm/rider-card-kamenride-diend-and-kaijinride.md)
   * [RIDERCARD OF DECADRIVER](2shangpin/csm/ridercardofdecadriver.md)
   * [RIDERCARD OF DIENDRIVER](2shangpin/csm/ridercardofdiendriver.md)
   * [CSM2.0特辑](https://p-bandai.jp/b-toys-shop/csm-decade)

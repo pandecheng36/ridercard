@@ -152,11 +152,13 @@ NOT FOR SALE
 
 ## 说明：
 
-B是BANDAI（万代），JAPAN是日本，©是版权符号，后面的就是版权方了，T是TOEI（东映）
+B是BANDAI（万代），JAPAN是日本，©是版权符号
+
+后面的就是版权方的字母缩写了，T是TOEI（东映）
 
 NOT FOR SALE是非卖品（特典卡上面才有）
 
-## 版权方：
+## 版权方详细说明：
 
 Ishimori Shōtarō / 石森プロ / 石森章太郎
 
