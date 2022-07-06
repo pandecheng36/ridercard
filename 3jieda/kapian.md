@@ -122,6 +122,18 @@ MASKED是英文，KAMEN是日文罗马音，意思相同，都是假面骑士
 
 <details>
 
+<summary>DECADE的LOGO下面一排数字“453145”是什么意思？</summary>
+
+<img src="https://www.kamen-rider-official.com/history/images/emblem/emblem_decade.png" alt="" data-size="original">
+
+### 1:point\_right:A     2:point\_right:B     3:point\_right:C     4:point\_right:D     5:point\_right:E
+
+### 4:point\_right:D     5:point\_right:E     3:point\_right:C     1:point\_right:A     5:point\_right:E
+
+</details>
+
+<details>
+
 <summary>为什么卡片正面底部的一排字和背面底部左下角的一排字看不清楚很模糊？</summary>
 
 这是一种卡片设计上常用的装饰性文字，仅用于装饰效果，没有太大的意义
@@ -152,11 +164,13 @@ NOT FOR SALE
 
 ## 说明：
 
-B是BANDAI（万代），JAPAN是日本，©是版权符号，后面的就是版权方了，T是TOEI（东映）
+B是BANDAI（万代），JAPAN是日本，©是版权符号
+
+后面的就是版权方的字母缩写了，T是TOEI（东映）
 
 NOT FOR SALE是非卖品（特典卡上面才有）
 
-## 版权方：
+## 版权方详细说明：
 
 Ishimori Shōtarō / 石森プロ / 石森章太郎
 
