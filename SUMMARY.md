@@ -71,6 +71,7 @@
 * [找图片素材的方法（百度篇）](qita/bdsoutu.md)
 * [假面骑士01密钥音效](qita/01keys.md)
 * [假面骑士相关图书](qita/tushu.md)
+* [德凯奥特次元卡](qita/ultradimensioncard.md)
 
 ***
 
