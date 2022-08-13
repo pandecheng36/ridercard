@@ -17,3 +17,11 @@ description: ライダーカードセット -ディケイド-
 ![](https://bandai-a.akamaihd.net/bc/images/shop\_top\_b-toys-shop/20220330\_decadriver\_5gwsxp6f\_0js7xa\_ridercard-2009\_02.jpg)
 
 ![](https://bandai-a.akamaihd.net/bc/img/model/xl/1000165358\_1.jpg)
+
+![](https://bandai-a.akamaihd.net/bc/img/model/xl/1000165358\_2.jpg)
+
+![](https://bandai-a.akamaihd.net/bc/img/model/xl/1000165358\_3.jpg)
+
+![](https://bandai-a.akamaihd.net/bc/img/model/xl/1000165358\_4.jpg)
+
+![](https://bandai-a.akamaihd.net/bc/img/model/xl/1000165358\_5.jpg)
