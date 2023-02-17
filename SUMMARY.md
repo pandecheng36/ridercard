@@ -55,6 +55,7 @@
   * [假面骑士系列](qita/tupian/jmqs/README.md)
     * [平成20周年系列](qita/tupian/jmqs/20th.md)
     * [官方KEMCO手机壁纸](qita/tupian/jmqs/kemco/README.md)
+      * [假面骑士GEATS系列](qita/tupian/jmqs/kemco/jia-mian-qi-shi-geats-xi-lie.md)
       * [假面骑士REVICE系列](qita/tupian/jmqs/kemco/revice.md)
       * [假面骑士SABER系列](qita/tupian/jmqs/kemco/saber.md)
       * [假面骑士01系列](qita/tupian/jmqs/kemco/01.md)
